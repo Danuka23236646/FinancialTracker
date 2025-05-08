@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Finance Manager</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_transaction">Transaction</string>
+    <string name="nav_budget">Budget</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Transaction -->
+    <string name="amount">Amount</string>
+    <string name="type">Type</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="delete_transaction">Delete Transaction</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirmation">Are you sure you want to delete this transaction?</string>
+    
+    <!-- Budget -->
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="current_expenses">Current Expenses</string>
+    <string name="set_budget">Set your monthly budget</string>
+    <string name="out_of_budget">Out of Budget</string>
+    <string name="safe_mode">You are in safe mode</string>
+    <string name="save_budget">Save Budget</string>
+    
+    <!-- Settings -->
+    <string name="currency">Currency</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="theme">Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
